@@ -1,0 +1,19 @@
+---
+title: "ജസ്റ്റിൻ ചാക്കോ"
+email: contact@justinechacko.in
+description: |
+  Tech news, mobile, gadgets, reviews, apps, internet.
+baseurl: ''
+url: https://justinechacko.in
+avatar: "/me.png"
+markdown: kramdown
+theme: minima
+paginate: 10
+paginate_path: "/page:num/"
+gems:
+- jekyll-feed
+- jekyll-paginate
+exclude:
+- Gemfile
+- Gemfile.lock
+timezone: Asia/Calcutta
