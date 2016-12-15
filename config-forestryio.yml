@@ -16,4 +16,4 @@ gems:
 exclude:
 - Gemfile
 - Gemfile.lock
-timezone: Asia/Calcutta
+timezone: Asia/Kolkata
